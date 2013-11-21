@@ -5,3 +5,4 @@ name: "naimo"
 paginate: 10
 permalink: pretty
 markdown: rdiscount
+url: http://naimo.github.com/
