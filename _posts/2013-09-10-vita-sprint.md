@@ -1,6 +1,6 @@
 ---
 title: Vita Sprint Chevalier
-layout: default
+layout: post
 ---
 
 
