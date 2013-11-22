@@ -42,7 +42,7 @@ I bought the wheels and freewheel (36-tooth ACS crossfire) first, as well as a s
 The frame had french bottom bracket threads (1mm, right hand threading on both sides). I couldn't reuse the original cup and cone bottom bracket because of rust and the cottered spindle was ruined. A Velo Orange french threaded 68 mm cartridge bottom bracket would have worked, but my local bicycle store (Hub bicycle in Cambridge, MA, they're great !) had the threadless version, so I had them install it for me. The spindle length is 110mm.
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-4"><img src="{{ site.url }}/assets/img/chevalier_finished.png" class="img-responsive" alt="Almost finished bicycle"></div>
+  <div class="col-md-6 col-md-offset-4"><img src="{{ site.url }}/assets/img/chevalier_finished.jpg" class="img-responsive" alt="Almost finished bicycle"></div>
 </div>
 
 The final addition was some white handlebar tape and the life saving bar end plugs (don't forget these !).
