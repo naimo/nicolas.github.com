@@ -16,6 +16,11 @@ I started by getting rid of all the rusted, broken, or unsafe (under today stand
 
 I used a sandblaster to strip the paint off the frame, it's a very convenient tool but one has to be careful not to blast the sand too close or for too long on the same area, or it will leave marks on the metal which can be hard to hide with the paint. Three layers of white primer were then sprayed lightly.
 
+<div class="row">
+  <div class="col-md-5 col-md-offset-2"><img src="{{ site.url }}/assets/img/primer_frame.png" class="img-responsive" alt="Primer layer on frame"></div>
+  <div class="col-md-3"><img src="{{ site.url }}/assets/img/primer_fork.png" class="img-responsive" alt="Primer layer on fork"></div>
+</div>
+
 Then sprayed the colored paint, starting with orange.
 
 I wanted to paint the tube and the lugs (welded junctions between tubes) with different colors, which meant finding a way to mask them. I initially tried with masking tape, which was a painfully time consuming task in itself to match the intricate lug contours, but I ran into problems when removing the tape. I ended up using masking fluid, which can be found in arts and crafts stores. It can be painted with a brush while still liquid, and can then be easily removed once dry. Tip: Using more masking fluid is better than not enough, or you risk to leave unmasked areas.
