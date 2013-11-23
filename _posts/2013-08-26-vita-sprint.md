@@ -37,7 +37,7 @@ Finally, a clear coat was sprayed to protect the paint. I took my time and left 
   <div class="col-md-4"><img src="{{ site.url }}/assets/img/clearcoat2.jpg" class="img-responsive" alt="Clear coat applied - back"></div>
 </div>
 
-I bought the wheels and freewheel (36-tooth ACS crossfire) first, as well as a single speed crankset and chainring found on Craigslist to eventually match them with a bottom bracket for the correct chain line. Sheldon Brown has tons of useful information for repairing/building bicycles.
+I bought the wheels and freewheel (16T ACS crossfire) first, as well as a single speed crankset and chainring found on Craigslist to eventually match them with a bottom bracket for the correct chain line. Sheldon Brown has tons of useful information for repairing/building bicycles.
 
 The frame had french bottom bracket threads (1mm, right hand threading on both sides). I couldn't reuse the original cup and cone bottom bracket because of rust and the cottered spindle was ruined. A Velo Orange french threaded 68 mm cartridge bottom bracket would have worked, but my local bicycle store (Hub bicycle in Cambridge, MA, they're great !) had the threadless version, so I had them install it for me. The spindle length is 110mm.
 
