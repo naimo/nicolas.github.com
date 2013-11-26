@@ -11,8 +11,16 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="{{ site.url }}">Home</a></li>
-            <li><a href="{{site.url}}/about">About</a></li>
+            {% if page.menu == "home" %}
+              <li class="active"><a href="{{ site.url }}">Home</a></li>
+            {% else %}
+              <li><a href="{{ site.url }}">Home</a></li>
+            {% endif %}
+            {% if page.menu == "about" %}
+              <li class="active"><a href="{{site.url}}/about">About</a></li>
+            {% else %}
+              <li><a href="{{site.url}}/about">About</a></li>
+            {% endif %}
           </ul>
         </div><!--/.nav-collapse -->
       </div>
