@@ -2,7 +2,6 @@
 layout: post
 title: 3D Projector
 image: projector_main.jpg
-menu: home
 ---
 
 Fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the LumenLab forums</a>.
