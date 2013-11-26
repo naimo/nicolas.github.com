@@ -1,6 +1,7 @@
 ---
 title: 1975 Vita Sprint Chevalier
 layout: post
+image: chevalier_finished.jpg
 ---
 
 When I arrived in Boston, I bought this bike for $50 as a temporary solution for my commute. It was very rusty and I had to straighten the front chainrings, but it served me well for more than a year, until the front brake lever failed and the rear wheel hub got loose and it became too dangerous to ride it.

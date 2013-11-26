@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 3D Projector
+image: projector_main.jpg
 ---
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
-tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
-t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
-erdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius n\
-ibh eu diam tempor rhoncus.
+Fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the LumenLab forums</a>.
 
 
+
+div class="row">
+  <div class="col-md-8 col-md-offset-2"><img src="{{ site.url }}/assets/img/chevalier.png" class="img-responsive" alt="old ad"></div>
+</div>
 
 Pellentesque sollicitudin
 
