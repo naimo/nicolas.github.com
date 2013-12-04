@@ -4,7 +4,7 @@ pygments: true
 name: "naimo"
 paginate: 10
 permalink: pretty
-markdown: rdiscount
+markdown: redcarpet
 url: http://nicolas.aimon.fr
 encoding: utf-8
 port: 8080
