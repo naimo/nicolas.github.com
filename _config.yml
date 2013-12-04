@@ -6,5 +6,5 @@ paginate: 10
 permalink: pretty
 markdown: rdiscount
 url: http://nicolas.aimon.fr
-encoding: "utf-8"
+encoding: utf-8
 port: 8080
