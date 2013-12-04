@@ -3,7 +3,7 @@ title: Projector Distance Calculations
 layout: defaultnosidebar
 ---
 
-Les distances sont en mètres, sauf quand l'unité est indiquée.
+Distances are in meters, except when indicated.
 
 <script type="text/javascript" src="http://www.wolfram.com/cdf-player/plugin/v2.1/cdfplugin.js"></script>
 <script type="text/javascript">
