@@ -4,7 +4,15 @@ title: 3D Projector
 image: projector_main.jpg
 ---
 <p>
-When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly narrowed down to the realm of DIY projectors, and in particular on the LumenLab Forum, which was one of the best resources out there on the subject. The forum is now dead, but, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a french Forum that is still live named <a href="www.allinbox.com">Allinbox</a>.
+When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly found myself absorbed in the realm of DIY projectors, and in particular in the LumenLab Forum, which was one of the best resources out there on the subject at the time. The forum is now dead but, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a french forum that is still live named <a href="www.allinbox.com">Allinbox</a>. 
+</p>
+
+<p>
+The main idea behind these DIY projectors is to strip the LCD screen of an old laptop or external monitor, place a very bright lamp on one side, add a few optics, lenses and mirrors to project the image on a wall or projection screen. Thanks to the work and optimization of hundreds of passionate DIYers, these homemade projectors have nothing to be jealous of their commercial counterparts. In fact, for a long time, these would often result in a higher quality image at a lower cost, provided you started with a high quality LCD screen.
+</p>
+
+<p>
+Because I really like 3D movies, I looked into the posibility of tweaking these projector designs and make them stereo-capable.
 </p>
 
 <p><img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive" alt="Finished projector"></p>
