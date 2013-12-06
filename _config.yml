@@ -5,6 +5,6 @@ name: "naimo"
 paginate: 10
 permalink: pretty
 markdown: redcarpet
-url: http://naimo.mit.edu:8080
+url: http://nicolas.aimon.fr
 encoding: utf-8
 port: 8080
