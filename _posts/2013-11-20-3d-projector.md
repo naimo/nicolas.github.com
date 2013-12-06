@@ -12,12 +12,14 @@ The main idea behind these DIY projectors is to strip the LCD screen of an old l
 </p>
 
 <p>
-To make things simple, I started revolving around the idea of reusing regular linear polarized 3D glasses such as the ones used in IMAX 3D. These are based on the filtering of polarized light to assign the right image to the right eye. What I needed was a way to project two superimposed images, polarized in perpendicular directions, from a single LCD screen. Here's a picture showing how the two images should overlap.
+To make things simple, I started revolving around the idea of reusing the usual linear polarized 3D glasses such as the ones used in IMAX 3D cinemas. These are based on the filtering of polarized light to assign the right image to the right eye. What I needed was a way to project two superimposed images, polarized in perpendicular directions, from a single LCD screen. Here's a side view picture showing how the two images need to overlap.
 </p>
 
 <p><img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive" alt=""></p>
 
-
+<p>
+Here's a more detailed view of the inside of the projector and how the light travels from the lamp, through the two halves of the LCD screen, through the various lenses and finally through the two projection lenses which are positioned such that the projected images overlap exactly on the screen.
+</p>
 
 <p><img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive" alt=""></p>
 
