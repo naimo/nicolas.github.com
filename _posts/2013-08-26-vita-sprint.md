@@ -4,15 +4,17 @@ layout: post
 image: chevalier_finished.jpg
 ---
 
-When I arrived in Boston, I bought this bike for $50 as a temporary solution for my commute. It was very rusty and I had to straighten the front chainrings, but it served me well for more than a year, until the front brake lever failed and the rear wheel hub got loose and it became too dangerous to ride it.
+<div class="well">
+	When I arrived in Boston, I bought this bike for $50 as a temporary solution for my commute. It was very rusty and I had to straighten the front chainrings, but it served me well for more than a year, until the front brake lever failed and the rear wheel hub got loose and it became too dangerous to ride it.
 
-Trying to repair it was not going to be worth the time and effort unless a full overhaul was performed and most parts replaced, but I counldn't resign myself to throwing it in the dumpster, not after I found this old advert and the bike suddenly had a name and a birth date (1975).
+	Trying to repair it was not going to be worth the time and effort unless a full overhaul was performed and most parts replaced, but I counldn't resign myself to throwing it in the dumpster, not after I found this old advert and the bike suddenly had a name and a birth date (1975).
 
-<div class="row">
-  <div class="col-md-8 col-md-offset-2"><img src="{{ site.url }}/assets/img/chevalier.png" class="img-responsive" alt="old ad"></div>
+	<div class="row">
+	  <div class="col-md-8 col-md-offset-2"><img src="{{ site.url }}/assets/img/chevalier.png" class="img-responsive" alt="old ad"></div>
+	</div>
+
+	So I decided to revive it.
 </div>
-
-So I decided to revive it.
 
 I started by getting rid of all the rusted, broken, or unsafe (under today standards) parts, which basically meant everything but the frame, seatpost, headset and handlebar with stem. I initially thought I would keep the wheels, but it rains a lot in Massachusetts, and if anyone was going to ride the bike, it would need decent braking, so no steel wheels.
 
