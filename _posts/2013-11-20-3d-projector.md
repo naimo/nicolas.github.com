@@ -30,8 +30,10 @@ Here's a more detailed view of the inside of the projector and how the light tra
 <p><img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive" alt=""></p>
 
 <p>
-
+All electronic and optical components are contained inside a box made of plywood and MDF boards.
 </p>
+
+<p><img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive" alt="Components inside the box"></p>
 
 
 <p><img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive" alt="Finished projector"></p>
