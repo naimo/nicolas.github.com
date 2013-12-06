@@ -18,7 +18,7 @@ image: projector_main.jpg
 </div>
 
 <p>
-To make things reasonably simple, the project revolves around the idea of reusing the usual linear polarized 3D glasses such as the ones used in IMAX 3D cinemas. These are based on the filtering of polarized light to assign the right image to the right eye. What is needed is a way to project two superimposed images, polarized in perpendicular directions, from a single LCD screen. Here's a side view picture showing how the two images have to overlap.
+To make things reasonably simple, the project revolves around the idea of reusing the usual linear polarized 3D glasses such as the ones used in IMAX 3D cinemas. These are based on the filtering of polarized light to assign the right image to the right eye. What is needed is a way to project two superimposed images, polarized in perpendicular directions, produced by a single LCD screen. Here's a side view picture showing how the two images have to overlap.
 </p>
 
 <p><img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive" alt=""></p>

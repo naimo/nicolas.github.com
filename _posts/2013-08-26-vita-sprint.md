@@ -12,7 +12,8 @@ Trying to repair it was not going to be worth the time and effort unless a full 
   <div class="col-md-8 col-md-offset-2"><img src="{{ site.url }}/assets/img/chevalier.png" class="img-responsive" alt="old ad"></div>
 </div>
 
-I decided to revive it.
+So I decided to revive it.
+
 I started by getting rid of all the rusted, broken, or unsafe (under today standards) parts, which basically meant everything but the frame, seatpost, headset and handlebar with stem. I initially thought I would keep the wheels, but it rains a lot in Massachusetts, and if anyone was going to ride the bike, it would need decent braking, so no steel wheels.
 
 I used a sandblaster to strip the paint off the frame, it's a very convenient tool but one has to be careful not to blast the sand too close or for too long on the same area, or it will leave marks on the metal which can be hard to hide with the paint. Three layers of white primer were then sprayed lightly.
