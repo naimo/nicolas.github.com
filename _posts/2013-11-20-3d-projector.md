@@ -18,16 +18,20 @@ image: projector_main.jpg
 </div>
 
 <p>
-To make things reasonably simple, the project revolves around the idea of reusing the usual linear polarized 3D glasses such as the ones used in IMAX 3D cinemas. These are based on the filtering of polarized light to assign the right image to the right eye. What is needed is a way to project two superimposed images, polarized in perpendicular directions, produced by a single LCD screen. Here's a side view picture showing how the two images have to overlap.
+To reuse the LCD screen of an old laptop for a 3D projector, what is needed is a way to project the images formed on the bottom and top halves of the screen (after it has been turned by 90 degrees to make it height the longer dimension) so that they overlap on the projection screen. Here's a side view picture showing the basic idea.
 </p>
 
 <p><img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive" alt=""></p>
 
 <p>
-Here's a more detailed view of the inside of the projector and how the light travels from the lamp, through the two halves of the LCD screen, through various lenses and finally through the two projection lenses which are positioned such that the projected images overlap exactly on the screen. It is largely based on the usual design of a DIY projector, as found in projects of the forums that I mentioned, except for the part that takes care of projecting the two different halves of the LCD. All the dimensions are calculated thanks to my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
+And here's a more detailed view of the inside of the projector and how the light produced by the lamp travels through the various elements. The design is largely based on the usual DIY projectors found on the forums that I mentioned.
 </p>
 
 <p><img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive" alt=""></p>
+
+<p>
+The principal difference with 2D DIY projectors is the right part of the box that takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions are calculated using my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
+</p>
 
 <p>
 All electronic and optical components are contained inside a box made of plywood and MDF boards.
@@ -35,5 +39,6 @@ All electronic and optical components are contained inside a box made of plywood
 
 <p><img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive" alt="Components inside the box"></p>
 
+To make things simpler, the project reuses usual linear-polarized 3D glasses such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. 
 
 <p><img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive" alt="Finished projector"></p>
