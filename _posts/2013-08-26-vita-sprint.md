@@ -69,9 +69,7 @@ The frame had french bottom bracket threads (1mm, right hand threading on both s
 </p>
 
 <p>
-<div class="row">
-  <div class="col-md-8 col-md-offset-2"><img src="{{ site.url }}/assets/img/chevalier_finished.jpg" class="img-responsive" alt="Almost finished bicycle"></div>
-</div>
+<img src="{{ site.url }}/assets/img/chevalier_finished.jpg" class="img-responsive" alt="Almost finished bicycle">
 </p>
 
 <p>
