@@ -1,0 +1,10 @@
+safe: true
+lsi: false
+pygments: true
+name: "naimo"
+paginate: 10
+permalink: pretty
+markdown: redcarpet
+url: http://naimo.mit.edu:8080
+encoding: utf-8
+port: 8080

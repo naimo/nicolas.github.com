@@ -35,11 +35,11 @@ image: projector_main.jpg
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="" style="margin-bottom:10px">
+		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 	<div class="col-md-6">
 		<p>
-			All electronic and optical components are contained inside a box made of plywood and MDF boards.
+			All electronic and optical components are contained inside a box made of plywood and MDF boards. I used pretty rudimentary wood mounts to secure the lenses 
 		</p>
 	</div>
 </div>
