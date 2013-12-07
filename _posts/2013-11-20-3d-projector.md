@@ -30,14 +30,19 @@ And here's a more detailed view of the inside of the projector and how the light
 <img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive" alt="">
 
 <p>
-The principal difference with 2D DIY projectors is the right part of the box that takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions are calculated using my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
+The principal difference with 2D DIY projectors is the right part of the box that takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions can be calculated using my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
 </p>
 
-<p>
-All electronic and optical components are contained inside a box made of plywood and MDF boards.
-</p>
-
-<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive" alt="Components inside the box">
+<div class="row">
+	<div class="col-md-6">
+		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive" alt="Components inside the box">
+	</div>
+	<div class="col-md-6">
+		<p>
+			All electronic and optical components are contained inside a box made of plywood and MDF boards.
+		</p>
+	</div>
+</div>
 
 To make things simpler, the project reuses usual linear-polarized 3D glasses such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. 
 
