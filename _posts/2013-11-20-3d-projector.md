@@ -44,6 +44,8 @@ The principal difference with 2D DIY projectors is the right part of the box tha
 	</div>
 </div>
 
-To make things simpler, the project reuses usual linear-polarized 3D glasses such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. 
+<p>
+	To make things simpler, the project reuses usual linear-polarized 3D glasses such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. 
+</p>
 
 <img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive" alt="Finished projector">
