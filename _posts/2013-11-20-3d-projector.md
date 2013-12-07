@@ -9,7 +9,7 @@ image: projector_main.jpg
 	</p>
 
 	<p>
-		The main idea behind these DIY projectors is to strip the LCD screen of an old laptop or external monitor, place a very bright lamp on one side, add a few optics, lenses and mirrors to project the image on a wall or projection screen. Thanks to the work and optimization of hundreds of passionate DIYers, these homemade projectors can result in a higher quality image than some of their commercial counterparts at a lower cost.
+		The main idea behind these DIY projectors is to strip the LCD screen of an old laptop or external monitor, place a very bright lamp on one side, add a few optics, lenses and mirrors to project the image on a wall or projection screen. Thanks to the work and optimization of hundreds of passionate DIYers, these homemade projectors can result in an image of higher quality than some of their commercial counterparts at a lower cost.
 	</p>
 
 	<p>
@@ -34,12 +34,12 @@ image: projector_main.jpg
 </p>
 
 <div class="row">
-	<div class="col-md-6">
+	<div class="col-md-4">
 		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="">
 	</div>
-	<div class="col-md-6">
+	<div class="col-md-8">
 		<p>
-			All electronic and optical components are contained inside a box made of plywood and MDF boards. I used pretty rudimentary wood mounts to secure the lenses 
+			All electronic and optical components are contained inside a box made of plywood and MDF boards. I used pretty rudimentary mounts that I cut in wood scraps to secure the lenses and LCD in place, but it doesn't have to be super accurate. 
 		</p>
 	</div>
 </div>
@@ -49,3 +49,30 @@ image: projector_main.jpg
 </p>
 
 <img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive img-rounded" alt="">
+
+<p>
+	The software side of things is the easy part, with a video editor such as AVIsynth, all there is to do is to stack the two channels of a 3D video stream vertically so that they are displayed at the right location and the right size on the LCD screen. Here's the code that I used to convert a video from "half side-by-side" format to a 1280x800 format playable on my projector.
+</p>
+
+<pre>
+height = 1280
+width = 800
+
+video=directshowsource("[i]videofile[/i]",pixel_type="RGB",audio=false)
+videoW = width(video)
+videoH = height(video)
+
+w=4*round(width/4)
+h=4*round(w*videoH/videoW/4)
+video=video.Lanczos4Resize(2*w,h)
+
+f1 = Crop(video, 0, 0, w, h)
+f2 = Crop(video, w, 0, w, h)
+
+blackheight = (height/2-h)/2
+
+black=BlankClip(f1, height=blackheight, color=$000000)
+StackVertical(black, f2, black, black, f1, black)
+
+ConvertToYV12()
+</pre>
