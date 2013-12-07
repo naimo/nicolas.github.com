@@ -30,7 +30,7 @@ image: projector_main.jpg
 </div>
 
 <div class="row">
-	<img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive" alt="" class="img-rounded">
+	<img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive img-rounded" alt="">
 </div>
 
 <div class="row">
@@ -40,7 +40,7 @@ image: projector_main.jpg
 </div>
 
 <div class="row">
-	<img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive" alt="" class="img-rounded">
+	<img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive img-rounded" alt="">
 </div>
 
 <div class="row">
@@ -51,7 +51,7 @@ image: projector_main.jpg
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive" alt="Components inside the box" class="img-rounded">
+		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 	<div class="col-md-6">
 		<p>
@@ -67,5 +67,5 @@ image: projector_main.jpg
 </div>
 
 <div class="row">
-	<img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive" alt="Finished projector" class="img-rounded">
+	<img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive img-rounded" alt="">
 </div>
