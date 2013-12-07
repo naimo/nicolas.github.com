@@ -21,17 +21,13 @@ image: projector_main.jpg
 	To reuse the LCD screen of an old laptop for a 3D projector, what is needed is a way to project the images formed on the bottom and top halves of the screen (after it has been turned by 90 degrees to make it height the longer dimension) so that they overlap on the projection screen. Here's a side view picture showing the basic idea.
 </p>
 
-<p>
-	<img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive img-rounded" alt="">
-</p>
+<img src="{{ site.url }}/assets/img/projector_overlap.jpg" class="img-responsive img-rounded" alt="">
 
 <p>
 	And here's a more detailed view of the inside of the projector and how the light produced by the lamp travels through the various elements. The design is largely based on the usual DIY projectors found on the forums that I mentioned.
 </p>
 
-<p>
-	<img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive img-rounded" alt="">
-</p>
+<img src="{{ site.url }}/assets/img/projector_sideview.jpg" class="img-responsive img-rounded" alt="">
 
 <p>
 	The principal difference with 2D DIY projectors is the right part of the box that takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions can be calculated using my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
@@ -39,7 +35,7 @@ image: projector_main.jpg
 
 <div class="row">
 	<div class="col-md-6">
-		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="">
+		<img src="{{ site.url }}/assets/img/projector_inside.jpg" class="img-responsive img-rounded" alt="" style="margin-bottom:10px">
 	</div>
 	<div class="col-md-6">
 		<p>
@@ -52,6 +48,4 @@ image: projector_main.jpg
 	To make things simpler, the project reuses usual linear-polarized 3D glasses such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. 
 </p>
 
-<p>
-	<img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive img-rounded" alt="">
-</p>
+<img src="{{ site.url }}/assets/img/projector_main.jpg" class="img-responsive img-rounded" alt="">
