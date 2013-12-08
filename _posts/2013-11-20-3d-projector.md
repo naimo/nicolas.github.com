@@ -34,7 +34,7 @@ image: projector_main.jpg
 </p>
 
 <p>
-Here is what the lamp actually looks like when it is in use. There is a spherical reflector at the back and a lense at the front, that maximize the amount of light actually passing through the LCD and reaching the projection screen. This is a 400W metal halide lamp, which produces a lot of heat, thus the two fans at the back of the box which continuously extract the hot air while around the lamp while cool air comes in the box from a side aperture, close to the LCD.
+Here is what the lamp actually looks like when it is in use. There is a spherical reflector at the back and a lens at the front, that maximize the amount of light actually passing through the LCD and reaching the projection screen. This is a 400W metal halide lamp, which produces a lot of heat, thus the two fans at the back of the box which continuously extract the hot air while around the lamp while cool air comes in the box from a side aperture, close to the LCD.
 </p>
 
 <img src="{{ site.url }}/assets/img/projector_light.jpg" class="img-responsive img-rounded" alt="">
@@ -50,12 +50,17 @@ All electronic and optical components are contained inside a box made of 1/2" pl
 	</div>
 	<div class="col-md-8">
 		<p>
-			I used pretty rudimentary mounts that I cut in wood scraps to secure the fresnel (large and flat) lenses and LCD in place. There is also a sheet of polycarbonate (Lexan) between the lamp and the first fresnel lens that acts as a heat shield to protect the other components from overheating.
+			I used pretty rudimentary mounts, that I cut in wood scraps, to secure the fresnel (large and flat) lenses and LCD in place. There is also a sheet of polycarbonate (Lexan) between the lamp and the first fresnel lens that acts as a heat shield to protect the other components from overheating.
 </p>
 
 <p>
-The two objective lenses, whose position is critical to obtain superposition of the two images on the screen, are mounted on small plywood panels that can be moved around thanks to a sliding mechanism. This is to correct 
+The two objective lenses, whose final position is critical to obtain superposition of the two images on the screen, are mounted on small plywood panels that can be moved around thanks to a sliding mechanism. This is to compensate for the fabrication inaccuracies when cutting the lenses and mounting the LCD, as it allows to move the projected image around to a certain extent as long as all of the light coming from the LCD passes through the objective lenses.
 		</p>
+
+<p>
+
+</p>
+
 	</div>
 </div>
 </p>
