@@ -63,7 +63,7 @@ All electronic and optical components are contained inside a box made of 1/2" pl
 </div>
 
 <p>
-	To make things simpler, the project reuses linear-polarized 3D glasses from movie theatres, such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. To make it work with our projector, we leverage the fact that the light coming out of the LCD screen is already polarized linearly, usually at an angle of 45 degrees. By adding half wave plate films next to the objectives, at two different angles, the polarization can be rotated in opposite directions to obtain two imges polarized at 90 degrees from each other.
+	To make things simpler, the project reuses linear-polarized 3D glasses from movie theatres, such as the ones used in IMAX 3D cinemas. These rely on the filtering of polarized light to assign the right image to the right eye. To make it work with our projector, we leverage the fact that the light coming out of the LCD screen is already polarized linearly, usually at an angle of 45 degrees. By adding half wave plate films next to the objectives, at two different angles, the polarization can be rotated in opposite directions to obtain two images polarized at 90 degrees from each other.
 </p>
 
 <p>
