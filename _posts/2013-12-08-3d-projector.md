@@ -67,7 +67,7 @@ All electronic and optical components are contained inside a box made of 1/2" pl
 </p>
 
 <p>
-Here are two pictures showing the images projected by the top and bottom halves of the projector, and how they are filtered differently while passing through the 3D glasses. The projection screen itself needs to be compatible with passive 3D, or else it will diffuse the light and lose the polarization. I use a Da-Lite Silverlight screen which has a metallic surface which keeps the polarization of the light.
+Here are two pictures showing the images projected by the top and bottom halves of the projector, and how they are filtered differently while passing through the 3D glasses. The projection screen itself needs to be compatible with passive 3D, or else it will diffuse the light and lose the polarization. I use a Da-Lite Silver Matte screen which has a metallic surface which keeps the polarization of the light.
 </p>
 
 <p>
