@@ -34,13 +34,13 @@ image: projector_main.jpg
 </p>
 
 <p>
-Here is what the lamp actually looks like when it is in use. There is a spherical reflector at the back and a lens at the front, that maximize the amount of light actually passing through the LCD and reaching the projection screen. The 1/4" aluminum parts that hold everything together were cut in the waterjet. The lamp is a 400W metal halide bulb, which produces a lot of heat, thus the two fans at the back of the box which continuously extract the hot air while around the lamp while cool air comes in the box from a side aperture, close to the LCD.
+	Here is what the lamp actually looks like when it is in use. There is a spherical reflector at the back and a lens at the front, that maximize the amount of light actually passing through the LCD and reaching the projection screen. The 1/4" aluminum parts that hold everything together were cut in the waterjet. The lamp is a 400W metal halide bulb, which produces a lot of heat, thus the two fans at the back of the box which continuously extract the hot air while around the lamp while cool air comes in the box from a side aperture, close to the LCD.
 </p>
 
 <img src="{{ site.url }}/assets/img/projector_light.jpg" class="img-responsive img-rounded" alt="">
 
 <p>
-All electronic and optical components are contained inside a box made of 1/2" plywood and 3/4" MDF boards. The final box dimensions are 12"x14"x36".
+	All electronic and optical components are contained inside a box made of 1/2" plywood and 3/4" MDF boards. The final box dimensions are 12"x14"x36". All the cutting and assembling was done at the Hobby Shop at MIT.
 </p>
 
 <div class="row">
