@@ -5,7 +5,7 @@ image: projector_main.jpg
 ---
 <div class="well">
 	<p>
-		When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly found myself absorbed in the realm of DIY projectors, and in particular in the LumenLab Forum, which was one of the best resources out there on the subject at the time. The forum is now dead, however, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a very good french forum named <a href="www.allinbox.com">Allinbox</a>. 
+		When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly found myself absorbed in the realm of DIY projectors, and in particular in the LumenLab Forum, which was one of the best resources out there on the subject at the time. The forum is now dead, however, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a very good french forum named <a href="http://www.allinbox.com">Allinbox</a>. 
 	</p>
 
 	<p>
