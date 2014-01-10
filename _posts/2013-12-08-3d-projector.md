@@ -13,7 +13,7 @@ image: projector_main.jpg
 	</p>
 
 	<p>
-		Because I really like 3D movies, I looked into the posibility of tweaking these projector designs and make one that is stereo-capable. In late 2012, A number of months later and after much deliberation, I started going to the shop and gave it a try. I'll try to summarize my journey in this post. For more details on the fabrication, and more resources about DIY projectors in general, please visit my <a href="">Instructable</a>.
+		Because I really like 3D movies, I looked into the posibility of tweaking these projector designs and make one that is stereo-capable. In late 2012, A number of months later and after much deliberation, I started going to the shop and gave it a try. I'll try to summarize my journey in this post. For more details on the fabrication, and more resources about DIY projectors in general, please visit my <a href="http://www.instructables.com/id/Hacking-an-old-laptop-into-a-3D-projector/">Instructable</a>.
 	</p>
 </div>
 
