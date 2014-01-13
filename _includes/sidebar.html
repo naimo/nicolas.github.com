@@ -1,26 +1,5 @@
-<div class=row>
+<div class="row">
     <p align="center">If you found the information on this website useful</p>
-    <div class="blockchain-btn" data-address="1DBifVueKtpkHdo3V7ZGCh66eRePpDjQow" data-shared="false">
-        <div class="blockchain stage-begin">
-            <p align="center">
-                <img src="https://blockchain.info//Resources/buttons/donate_64.png"/>
-            </p>
-        </div>
-        <div class="blockchain stage-loading" style="text-align:center">
-            <p align="center">
-                <img src="https://blockchain.info//Resources/loading-large.gif"/>
-            </p>
-        </div>
-        <div class="blockchain stage-ready">
-             <p align="center">Please Donate To Bitcoin Address: <b>[[address]]</b></p>
-             <p align="center" class="qr-code"></p>
-        </div>
-        <div class="blockchain stage-paid">
-             Donation of <b>[[value]] BTC</b> Received. Thank You.
-        </div>
-        <div class="blockchain stage-error">
-            <font color="red">[[error]]</font>
-        </div>
-    </div>
-</div>
+    <p align="center">Please Donate To Bitcoin Address: <b>{{site.bitcoin}}</b></p>
+    <img class="img-responsive" src="{{site.url}}/assets/img/QR.png">
 </div>
