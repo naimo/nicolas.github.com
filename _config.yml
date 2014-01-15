@@ -5,7 +5,7 @@ name: "Nicolas Aimon"
 paginate: 10
 permalink: pretty
 markdown: redcarpet
-url: http://127.0.0.1
+url: http://18.82.6.202
 encoding: utf-8
 port: 80
 bitcoin: 1DBifVueKtpkHdo3V7ZGCh66eRePpDjQow
