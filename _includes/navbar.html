@@ -16,29 +16,28 @@
             {% else %}
               <li>
             {% endif %}
-            <a href="{{ site.url }}">Home</a></li>
+            <a href="{{ site.url }}"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+
+            {% if page.menu == "research" %}
+              <li class="active">
+            {% else %}
+              <li>
+            {% endif %}
+            <a href="{{ site.url }}/research/"><span class="glyphicon glyphicon-book"></span> Research</a></li>
 
             {% if page.menu == "projects" %}
               <li class="active">
             {% else %}
               <li>
             {% endif %}
-            <a href="{{ site.url }}/projects/">Projects</a></li>
+            <a href="{{ site.url }}/projects/"><span class="glyphicon glyphicon-wrench"></span> Projects</a></li>
 
-            {% if page.menu == "about" %}
-            <li class="dropdown active">
+            {% if page.menu == "resume" %}
+            <li class="active">
             {% else %}
-            <li class="dropdown">
+            <li>
             {% endif %}
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-      	      <ul class="dropdown-menu">
-            		<li>
-                  <a href="{{ site.url }}/resume/">Resume</a></li>
-                </li>
-                <li>
-                  <a href="http://www.linkedin.com/pub/nicolas-aimon/6a/54a/a05" target="_blank"><img src="http://s.c.lnkd.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png"></a>
-                </li>
-              </ul>
+            <a href="{{ site.url }}/resume/"><span class="glyphicon glyphicon-user"></span> Resume</a></li>
             </li>
           </ul>
         </div><!--/.nav-collapse -->
