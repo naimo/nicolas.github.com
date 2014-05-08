@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Self-irrigating terrace garden
-image: garden.jpg
+title: Quadcopter
+image: quadcopter.jpg
 ---
 <div class="well">
 	<p>
-		We have the chance to live in an apartment with an amazing terrace. It would have been a shame not to take advantage of it and make it our own.
+		We have had the chance to live for two years in an apartment with an amazing terrace.
 	</p>
 </div>
 
