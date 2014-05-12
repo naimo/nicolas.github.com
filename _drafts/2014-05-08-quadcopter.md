@@ -1,19 +1,34 @@
 ---
 layout: post
 title: Quadcopter
-image: quadcopter.jpg
+image: quad.jpg
 ---
 <div class="well">
 	<p>
-		We have had the chance to live for two years in an apartment with an amazing terrace.
+		As a gift to myself for finishing grad school, I ordered all the parts I needed to make a quadcopter. 
 	</p>
 </div>
 
 <p>
-	Here is what the lamp actually looks like when it is in use. There is a spherical reflector at the back and a lens at the front, that maximize the amount of light actually passing through the LCD and reaching the projection screen. The 1/4" aluminum parts that hold everything together were cut in the waterjet. The lamp is a 400W metal halide bulb, which produces a lot of heat, thus the two fans at the back of the box which continuously extract the hot air while around the lamp while cool air comes in the box from a side aperture, close to the LCD.
+	Here's the bill of materials
+	<ul>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a>Q450 V3 frame</li>
+	  <li><a href="http://rctimer.com/">RC-timer</a> HP2212 1000kv motors (4x)</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> Blueseries 30A ESC (4x)</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> 8x4.5 slow flight propellers (4x)</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> Multiwii 328p flight controller and Bluetooth module</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> Turnigy 9X Radio Transmitter and Receiver</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> Zippy Flightmax 4S 30C 5000mAh and 2800mAh LiPo batteries</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> 1500mAh LiFe transmitter battery</li>
+	  <li><a href="http://www.hobbyking.com/">HobbyKing</a> Turnigy Accucel-6 battery charger</li>
+	</ul>
 </p>
 
-<img src="{{ site.url }}/assets/img/projector_light.jpg" class="img-responsive img-rounded" alt="">
+<p>
+	After flashing the ESCs with SimonK firmware, the high pitch hissing noise that I used to hear disappeared completely, leaving only the melodious humming of the propellers. I used the usual USBavr programmer and followed these <a href="http://polakiumengineering.org/?p=1119">instructions for wiring</a>. I flashed with the <a href="http://lazyzero.de/en/modellbau/kkmulticopterflashtool">KKMulticopter Flashtool</a>.
+</p>
+
+<img src="{{ site.url }}/assets/img/quad_simonk.jpg" class="img-responsive img-rounded" alt="">
 
 <div class="row">
 	<div class="col-md-4">
@@ -33,15 +48,3 @@ image: quadcopter.jpg
 	</p>
 </div>
 </div>
-
-<p>
-<div class="row">
-	<div class="col-md-6">
-	     <img src="{{ site.url }}/assets/img/projector_right.jpg" class="img-responsive img-rounded" alt="">
-	</div>
-	<div class="col-md-6">
-	     <img src="{{ site.url }}/assets/img/projector_left.jpg" class="img-responsive img-rounded" alt="">
-	</div>
-
-</div>
-</p>
