@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self-irrigating terrace garden
-image: garden.jpg
+image: garden
 ---
 <div class="well">
 	<p>
@@ -16,7 +16,7 @@ image: garden.jpg
 		Here's the actual concept, water is retained in reservoirs placed at the bottom of the planter, which have holes so that the soil can wick this water up. A tube is placed to allow these reservoirs to be filled from the top, and a drain makes sure that the water doesn't reach too high a level.
 	</p>
 
-	<img src="{{ site.url }}/assets/img/garden_sip.png" class="img-responsive img-rounded" alt="">
+	<img src="{{ site.url }}/assets/img/{{ page.image }}/sip.jpg" class="img-responsive img-rounded" alt="">
 </div>
 
 <p>
@@ -26,10 +26,10 @@ image: garden.jpg
 <p>
 <div class="row">
 	<div class="col-md-8">
-	     <img src="{{ site.url }}/assets/img/garden_bedplanter.jpg" class="img-responsive img-rounded" alt="">
+	     <img src="{{ site.url }}/assets/img/{{ page.image }}/bedplanter.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 	<div class="col-md-4">
-	     <img src="{{ site.url }}/assets/img/garden_palletplanter.jpg" class="img-responsive img-rounded" alt="">
+	     <img src="{{ site.url }}/assets/img/{{ page.image }}/palletplanter.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 </div>
 </p>
@@ -39,13 +39,13 @@ After building the planters, we lined the bottom with plastic tarp, placed the r
 <p>
 <div class="row">
 	<div class="col-md-4">
-		<img src="{{ site.url }}/assets/img/garden_palletempty.jpg" class="img-responsive img-rounded" alt="">
+		<img src="{{ site.url }}/assets/img/{{ page.image }}/palletempty.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 	<div class="col-md-4">
-		<img src="{{ site.url }}/assets/img/garden_wicking.jpg" class="img-responsive img-rounded" alt="">
+		<img src="{{ site.url }}/assets/img/{{ page.image }}/wicking.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 	<div class="col-md-4">
-		<img src="{{ site.url }}/assets/img/garden_topsoil.jpg" class="img-responsive img-rounded" alt="">
+		<img src="{{ site.url }}/assets/img/{{ page.image }}/topsoil.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 </div>
 </p>
@@ -57,14 +57,14 @@ After building the planters, we lined the bottom with plastic tarp, placed the r
 <div class="row">
 	<div class="col-md-6">
 		<p>
-			<img src="{{ site.url }}/assets/img/garden_seedlings.jpg" class="img-responsive img-rounded" alt="">
+			<img src="{{ site.url }}/assets/img/{{ page.image }}/seedlings.jpg" class="img-responsive img-rounded" alt="">
 		</p>
 		<p>
-			<img src="{{ site.url }}/assets/img/garden_mint.jpg" class="img-responsive img-rounded" alt="">
+			<img src="{{ site.url }}/assets/img/{{ page.image }}/mint.jpg" class="img-responsive img-rounded" alt="">
 		</p>
 	</div>
 	<div class="col-md-6">
-		<img src="{{ site.url }}/assets/img/garden_peas.jpg" class="img-responsive img-rounded" alt="">
+		<img src="{{ site.url }}/assets/img/{{ page.image }}/peas.jpg" class="img-responsive img-rounded" alt="">
 	</div>
 </div>
 
@@ -72,4 +72,4 @@ After building the planters, we lined the bottom with plastic tarp, placed the r
 	Time to relax and watch them grow !
 </p>
 
-<img src="{{ site.url }}/assets/img/garden_hammoc.jpg" class="img-responsive img-rounded" alt="">
+<img src="{{ site.url }}/assets/img/{{ page.image }}/hammoc.jpg" class="img-responsive img-rounded" alt="">

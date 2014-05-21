@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadcopter
-image: quad.jpg
+image: quad
 ---
 <div class="well">
 	<p>
@@ -45,7 +45,7 @@ image: quad.jpg
 <div class="row">
 	<div class="col-md-8 col-md-offset-2">
 		<p>
-			<img src="{{ site.url }}/assets/img/quad.jpg" class="img-responsive img-rounded" alt="">
+			<img src="{{ site.url }}/assets/img/{{ page.image }}/main.jpg" class="img-responsive img-rounded" alt="">
 		</p>
 	</div>
 </div>
@@ -62,7 +62,7 @@ image: quad.jpg
 	</div>
 	<div class="col-md-4">
 		<p>
-			<img src="{{ site.url }}/assets/img/quad_simonk.jpg" class="img-responsive img-rounded" alt="">
+			<img src="{{ site.url }}/assets/img/{{ page.image }}/simonk.jpg" class="img-responsive img-rounded" alt="">
 		</p>
 	</div>
 </div>
