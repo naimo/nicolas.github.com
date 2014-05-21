@@ -9,7 +9,7 @@ image: garden
 	</p>
 
 	<p>
-		Inspired by the many examples of sub-irrigated planters at <a href="http://www.insideurbangreen.org/">insideurbangreen.org</a>, and knowing that our graduate student lives would not leave us much time to water the garden on regular basis, we decided to use that system with reservoirs which supply water to the plants for weeks at a time.
+		Inspired by the many examples of sub-irrigated planters at <a href="http://www.insideurbangreen.org/" target="_blank">insideurbangreen.org</a>, and knowing that our graduate student lives would not leave us much time to water the garden on regular basis, we decided to use that system with reservoirs which supply water to the plants for weeks at a time.
 	</p>
 
 	<p>

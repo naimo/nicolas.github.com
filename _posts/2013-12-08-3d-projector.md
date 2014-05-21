@@ -5,7 +5,7 @@ image: projector
 ---
 <div class="well">
 	<p>
-		When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly found myself absorbed in the realm of DIY projectors, and in particular in the LumenLab Forum, which was one of the best resources out there on the subject at the time. The forum is now dead, however, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a very good french forum named <a href="http://forum.allinbox.com/">Allinbox</a>. 
+		When the backlight of an old laptop of mine died, I looked into projects that could repurpose and salvage its LCD screen. I quickly found myself absorbed in the realm of DIY projectors, and in particular in the LumenLab Forum, which was one of the best resources out there on the subject at the time. The forum is now dead, however, fortunately, most of the content can still be accessed via the Wayback Machine which has an <a href="https://web.archive.org/web/20120309041922/http://www.lumenlab.com/forums/index.php?showforum=29" target="_blank">archive of the old posts</a>. There are a couple other good resources out there, and, in particular, a very good french forum named <a href="http://forum.allinbox.com/" target="_blank">Allinbox</a>. 
 	</p>
 
 	<p>
@@ -13,7 +13,7 @@ image: projector
 	</p>
 
 	<p>
-		Because I really like 3D movies, I looked into the posibility of tweaking these projector designs and make one that is stereo-capable. In late 2012, A number of months later and after much deliberation, I started going to the shop and gave it a try. I'll try to summarize my journey in this post. For more details on the fabrication, and more resources about DIY projectors in general, please visit my <a href="http://www.instructables.com/id/Hacking-an-old-laptop-into-a-3D-projector/">Instructable</a>.
+		Because I really like 3D movies, I looked into the posibility of tweaking these projector designs and make one that is stereo-capable. In late 2012, A number of months later and after much deliberation, I started going to the shop and gave it a try. I'll try to summarize my journey in this post. For more details on the fabrication, and more resources about DIY projectors in general, please visit my <a href="http://www.instructables.com/id/Hacking-an-old-laptop-into-a-3D-projector/" target="_blank">Instructable</a>.
 	</p>
 </div>
 
@@ -30,7 +30,7 @@ image: projector
 <img src="{{ site.url }}/assets/img//{{ page.image }}/sideview.jpg" class="img-responsive img-rounded" alt="">
 
 <p>
-	The principal difference with 2D DIY projectors is the front part of the box, here on the right, which takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions can be calculated using my little <a href="{{ site.url }}/projector/">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
+	The principal difference with 2D DIY projectors is the front part of the box, here on the right, which takes care of projecting the two different halves of the LCD along two different paths. Thanks to a proper placement of the lenses, based on the concept of "lens shift", we can obtain the superposition of the two images on the projection screen. All the dimensions can be calculated using my little <a href="{{ site.url }}/projector/"  target="_blank">Mathematica script</a> in which one can play with the various specifications and dimensions of the LCD, lenses, etc.
 </p>
 
 <p>
