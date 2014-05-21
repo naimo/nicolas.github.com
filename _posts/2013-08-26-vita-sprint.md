@@ -1,7 +1,7 @@
 ---
 title: 1975 Vita Sprint Chevalier
 layout: post
-image: chevalier_finished.jpg
+image: chevalier
 ---
 
 <div class="well">
@@ -11,7 +11,7 @@ image: chevalier_finished.jpg
 	Trying to repair it was not going to be worth the time and effort unless a full overhaul was performed and most parts replaced, but I counldn't resign myself to throwing it in the dumpster, not after I found this old advert and the bike suddenly had a name and a birth date (1975).
 	</p>
 
-	<img src="{{ site.url }}/assets/img/chevalier.png" class="img-responsive" alt="old ad">
+	<img src="{{ site.url }}/assets/img/{{ page.image }}/main.jpg" class="img-responsive" alt="old ad">
 
 	<p>
 	So I decided to revive it.
@@ -27,8 +27,8 @@ I used a sandblaster to strip the paint off the frame, it's a very convenient to
 </p>
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/chevalier_primer_frame.jpg" class="img-responsive" alt="Primer layer on frame"></div>
-  <div class="col-md-4"><img src="{{ site.url }}/assets/img/chevalier_primer_fork.jpg" class="img-responsive" alt="Primer layer on fork"></div>
+  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/{{ page.image }}/primer_frame.jpg" class="img-responsive" alt="Primer layer on frame"></div>
+  <div class="col-md-4"><img src="{{ site.url }}/assets/img/{{ page.image }}/primer_fork.jpg" class="img-responsive" alt="Primer layer on fork"></div>
 </div>
 
 <p>
@@ -36,8 +36,8 @@ Then sprayed the colored paint, starting with orange.
 </p>
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/chevalier_orange_frame.jpg" class="img-responsive" alt="Orange layer on frame"></div>
-  <div class="col-md-4"><img src="{{ site.url }}/assets/img/chevalier_orange_fork.jpg" class="img-responsive" alt="Orange layer on fork"></div>
+  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/{{ page.image }}/orange_frame.jpg" class="img-responsive" alt="Orange layer on frame"></div>
+  <div class="col-md-4"><img src="{{ site.url }}/assets/img/{{ page.image }}/orange_fork.jpg" class="img-responsive" alt="Orange layer on fork"></div>
 </div>
 
 <p>
@@ -49,8 +49,8 @@ Finally, a clear coat was sprayed to protect the paint. I took my time and left 
 </p>
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/chevalier_clearcoat.jpg" class="img-responsive" alt="Clear coat applied"></div>
-  <div class="col-md-4"><img src="{{ site.url }}/assets/img/chevalier_clearcoat2.jpg" class="img-responsive" alt="Clear coat applied - back"></div>
+  <div class="col-md-6 col-md-offset-1"><img src="{{ site.url }}/assets/img/{{ page.image }}/clearcoat.jpg" class="img-responsive" alt="Clear coat applied"></div>
+  <div class="col-md-4"><img src="{{ site.url }}/assets/img/{{ page.image }}/clearcoat2.jpg" class="img-responsive" alt="Clear coat applied - back"></div>
 </div>
 
 <p>
@@ -61,7 +61,7 @@ I bought the wheels and freewheel (16T ACS crossfire) first, as well as a single
 The frame had french bottom bracket threads (1mm, right hand threading on both sides). I couldn't reuse the original cup and cone bottom bracket because of rust and the cottered spindle was ruined. A Velo Orange french threaded 68 mm cartridge bottom bracket would have worked, but my local bicycle store (Hub bicycle in Cambridge, MA, they're great !) had the threadless version, so I had them install it for me. The spindle length is 110mm.
 </p>
 
-<img src="{{ site.url }}/assets/img/chevalier_finished.jpg" class="img-responsive" alt="Almost finished bicycle">
+<img src="{{ site.url }}/assets/img/{{ page.image }}/main.jpg" class="img-responsive" alt="Almost finished bicycle">
 
 <p>
 The final addition was some white handlebar tape and the life saving bar end plugs (don't forget these !).
