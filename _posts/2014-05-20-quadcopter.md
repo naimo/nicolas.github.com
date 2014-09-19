@@ -10,7 +10,7 @@ image: quad
 </div>
 
 <p>
-	Right now, I've got a flying quad, and I received a GoPro camera as a gift which I mounted on it and let me record the following video. For now I'm piloting in line-of-sight, but I'll make another post when I get FPV gear and have it setup.</p>
+	After some initial tuning, I've got a flying quad ! Mounting a GoPro camera on it let me record the following video. I'm piloting both in line-of-sight and in FPV (first person view), which means transmitting the live video from the on board camera to LCD goggles.</p>
 
 <div class="row">
 	<div class="col-md-8 col-md-offset-2">
@@ -57,7 +57,7 @@ image: quad
 <div class="row">
 	<div class="col-md-8">
 		<p>
-			To fix some issues with the stability of the quad, I had to flash the electronic speed controllers with a new firmware (latest SimonK hex file). It really improved the performance, the high pitch hissing noise that I used to hear disappeared completely, leaving only the melodious humming of the propellers (my understanding is that the new firmware uses a higher frequency pulsed width modulation, outside of the audible range). I used the usual USBavr programmer and followed these <a href="http://polakiumengineering.org/?p=1119" target="_blank">instructions for wiring</a>. I flashed with the <a href="http://lazyzero.de/en/modellbau/kkmulticopterflashtool" target="_blank">KKMulticopter Flashtool</a>.
+			To fix some issues with the stability of the quad, I also had to flash the electronic speed controllers with a new firmware (latest SimonK hex file). It really improved the performance, the high pitch hissing noise that I used to hear disappeared completely, leaving only the melodious humming of the propellers (my understanding is that the new firmware uses a higher frequency pulsed width modulation, outside of the audible range). I used the usual USBavr programmer and followed these <a href="http://polakiumengineering.org/?p=1119" target="_blank">instructions for wiring</a>. I flashed with the <a href="http://lazyzero.de/en/modellbau/kkmulticopterflashtool" target="_blank">KKMulticopter Flashtool</a>.
 		</p>
 	</div>
 	<div class="col-md-4">
