@@ -30,7 +30,7 @@ image: quad
 	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Blueseries 30A Electronic Speed Controller (4x)</li>
 	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> 8x4.5 slow flight propellers (4x)</li>
 	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Multiwii 328p flight controller and Bluetooth module</li>
-	  	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Zippy Flightmax 4S 30C 5000mAh and 2800mAh LiPo batteries</li>
+	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Zippy Flightmax 4S 30C 5000mAh and 2800mAh LiPo batteries</li>
 	  <li><a href="http://www.amazon.com/" target="_blank">Amazon</a> Integy C23212 Lipo Voltage Checker/Warning Buzzer</li>
 	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Turnigy Accucel-6 battery charger</li>
 	  <li><a href="http://www.hobbyking.com/" target="_blank">HobbyKing</a> Turnigy 9X Radio Transmitter and Receiver</li>
