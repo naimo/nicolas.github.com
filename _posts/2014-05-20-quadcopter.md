@@ -5,12 +5,13 @@ image: quad
 ---
 <div class="well">
 	<p>
-		As a gift to myself for finishing grad school, I ordered all the parts I needed to make a quadcopter. Inspired by the amazing videos by <a href="https://www.youtube.com/channel/UCAMZOHjmiInGYjOplGhU38g" target="_blank">TeamBlackSheep</a>, <a href="https://www.youtube.com/channel/UC16hCs7XeniFuoJq0hm_-EA" target="_blank">David Windestål</a> and others, the long term goal is to make a compact quad capable of transmitting video from an on-board camera in real time, and be piloted in first-person-view (FPV). I love the idea of goint to visit places inaccessible otherwise, of course without putting other in danger or invading their privacy.
+		As a gift to myself for finishing grad school, I ordered all the parts I needed to make a quadcopter. Inspired by the amazing videos by <a href="https://www.youtube.com/channel/UCAMZOHjmiInGYjOplGhU38g" target="_blank">TeamBlackSheep</a>, <a href="https://www.youtube.com/channel/UC16hCs7XeniFuoJq0hm_-EA" target="_blank">David Windestål</a> and others, the long term goal is to make a compact quad capable of transmitting video from an on-board camera in real time, and be piloted in first-person-view (FPV). I love the idea of goint to visit places otherwise inaccessible.
 	</p>
 </div>
 
 <p>
-	After some initial tuning, I've got a flying quad ! Mounting a GoPro camera on it let me record the following video. I'm piloting both in line-of-sight and in FPV (first person view), which means transmitting the live video from the on board camera to LCD goggles.</p>
+	After some initial tuning, I've got a flying quad ! Mounting a GoPro camera on it let me record the following video. I'm piloting both in line-of-sight and in FPV (first person view), which means transmitting the live video from the on board camera to LCD goggles.
+</p>
 
 <div class="row">
 	<div class="col-md-8 col-md-offset-2">
