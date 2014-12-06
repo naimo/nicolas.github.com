@@ -2,6 +2,7 @@
 layout: post
 title: Arduino PID control for sous-vide cooker
 image: PIDsousvide
+menu: projects
 ---
 <div class="well">
 	<div class="row">

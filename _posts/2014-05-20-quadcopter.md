@@ -2,6 +2,7 @@
 layout: post
 title: Quadcopter
 image: quad
+menu: projects
 ---
 <div class="well">
 	<p>

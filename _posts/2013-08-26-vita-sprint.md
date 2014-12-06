@@ -2,6 +2,7 @@
 title: 1975 Vita Sprint Chevalier
 layout: post
 image: chevalier
+menu: projects
 ---
 
 <div class="well">

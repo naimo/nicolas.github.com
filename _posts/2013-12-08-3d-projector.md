@@ -2,6 +2,7 @@
 layout: post
 title: DIY 3D Projector
 image: projector
+menu: projects
 ---
 <div class="well">
 	<p>

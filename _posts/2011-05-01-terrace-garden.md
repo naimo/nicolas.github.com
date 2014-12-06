@@ -2,6 +2,7 @@
 layout: post
 title: Self-irrigating terrace garden
 image: garden
+menu: projects
 ---
 <div class="well">
 	<p>
