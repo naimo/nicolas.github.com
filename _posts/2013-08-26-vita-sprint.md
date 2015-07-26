@@ -12,7 +12,7 @@ menu: projects
 	Trying to repair it was not going to be worth the time and effort unless a full overhaul was performed and most parts replaced, but I counldn't resign myself to throwing it in the dumpster, not after I found this old advert and the bike suddenly had a name and a birth date (1975).
 	</p>
 
-	<img src="{{ site.url }}/assets/img/{{ page.image }}/main.jpg" class="img-responsive" alt="old ad">
+	<img src="{{ site.url }}/assets/img/{{ page.image }}/chevalier.jpg" class="img-responsive" alt="old ad">
 
 	<p>
 	So I decided to revive it.
