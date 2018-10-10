@@ -4,8 +4,8 @@ highlighter: pygments
 name: "Nicolas Aimon"
 paginate: 10
 permalink: pretty
-markdown: redcarpet
+markdown: kramdown
 url: http://nicolas.aimon.fr
 encoding: utf-8
 port: 80
-bitcoin: 1DBifVueKtpkHdo3V7ZGCh66eRePpDjQow
+plugins: [jekyll-paginate]
